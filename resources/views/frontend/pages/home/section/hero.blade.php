@@ -1,159 +1,61 @@
-<section
-    class="relative flex items-center justify-center overflow-hidden bg-brand-50 py-10 text-slate-900 sm:py-12 lg:py-16">
-
-    {{-- Ambient Radial Glows --}}
-    <div
-        class="pointer-events-none absolute -left-16 -top-16 h-64 w-64 rounded-full bg-brand-500/10 blur-[80px] sm:-left-20 sm:-top-20 sm:h-80 sm:w-80 sm:blur-[100px]">
-    </div>
-    <div
-        class="pointer-events-none absolute -bottom-16 -right-16 h-64 w-64 rounded-full bg-secondary-500/15 blur-[80px] sm:-bottom-20 sm:-right-20 sm:h-80 sm:w-80 sm:blur-[100px]">
-    </div>
-
-    {{-- Container --}}
-    <div class="relative z-10 mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
-
-        <div class="inline-flex items-center gap-space-sm bg-surface-card px-4 py-2 rounded-full shadow-sm mb-6">
-            <div class="flex -space-x-2 overflow-hidden">
-                <div
-                    class="inline-block h-6 w-6 rounded-full bg-secondary-container text-on-secondary-container font-caption text-caption flex items-center justify-center font-bold">
-                    SL</div>
-                <div
-                    class="inline-block h-6 w-6 rounded-full bg-surface-container-high text-on-surface font-caption text-caption flex items-center justify-center font-bold">
-                    MK</div>
-                <div
-                    class="inline-block h-6 w-6 rounded-full bg-lime-accent text-on-background font-caption text-caption flex items-center justify-center font-bold">
-                    EJ</div>
+<section class="py-20 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto flex flex-col items-center">
+        
+        <!-- Top Social Proof Pill -->
+        <div class="inline-flex items-center gap-3 bg-white border border-gray-200/80 rounded-full py-1.5 px-4 shadow-2xs mb-8">
+            <!-- Overlapping Avatar Initials -->
+            <div class="flex -space-x-2">
+                <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-[#FBC4B2] text-gray-900 text-xs font-bold ring-2 ring-white">
+                    SL
+                </span>
+                <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-[#E5E7EB] text-gray-900 text-xs font-bold ring-2 ring-white">
+                    MK
+                </span>
+                <span class="inline-flex items-center justify-center w-7 h-7 rounded-full bg-[#D9F99D] text-gray-900 text-xs font-bold ring-2 ring-white">
+                    EJ
+                </span>
             </div>
-            <div class="flex items-center gap-1">
-                <span class="material-symbols-outlined text-rating-amber text-[18px]"
-                    style="font-variation-settings: 'FILL' 1;">star</span>
-                <span class="font-label-sm text-label-sm text-on-surface">4.9/5 Rating</span>
-                <span class="font-body-sm text-body-sm text-text-muted">(1,400+ Graduates &amp; Salon Placements)</span>
+
+            <!-- Rating Text -->
+            <div class="flex items-center gap-1.5 text-sm">
+                <!-- Star Icon -->
+                <svg class="w-4 h-4 text-brand-500 fill-current" viewBox="0 0 20 20">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                </svg>
+                <span class="font-bold text-gray-900">4.9/5 Rating</span>
+                <span class="text-gray-500 hidden sm:inline">(1,400+ Graduates &amp; Salon Placements)</span>
             </div>
         </div>
 
-        <div class="grid grid-cols-1 items-center gap-8 sm:gap-10 lg:grid-cols-12 lg:gap-12 xl:gap-16">
+        <!-- Main Headline -->
+        <h1 class="text-4xl sm:text-5xl md:text-[3.5rem] font-extrabold text-[#18181B] tracking-tight leading-[1.12] mb-6">
+            Master your artistry. Launch your career in beauty &amp; nails.
+        </h1>
 
-            {{-- Left Side Content --}}
-            <div class="animate-fade-in-left order-1 space-y-4 sm:space-y-5 lg:col-span-6 lg:order-none">
-                <div class="flex flex-col gap-2 sm:flex-row sm:items-center">
-                    {{-- Status Badge --}}
-                    <div
-                        class="inline-flex items-center gap-2 rounded-full border border-brand-200 bg-white/80 px-3 py-1 text-[11px] font-semibold uppercase tracking-wider text-brand-700 shadow-sm sm:px-3.5 sm:text-xs">
-                        <span class="flex h-1.5 w-1.5 animate-pulse rounded-full bg-brand-500 sm:h-2 sm:w-2"></span>
-                        <span>Nationally Recognised Training</span>
-                    </div>
-                    <span class="text-[11px]">RTO CODE: 45685</span>
-                </div>
+        <!-- Subtitle -->
+        <p class="max-w-2xl text-base sm:text-lg text-gray-600 leading-relaxed mb-10">
+            Nationally accredited qualifications, hands-on clinical training in our state-of-the-art Melbourne CBD student salon, and guaranteed industry placements.
+        </p>
 
+        <!-- CTA Buttons -->
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
+            <!-- Primary Button -->
+            <a href="" class="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 bg-brand-500 hover:bg-brand-800 text-white font-semibold text-sm px-7 py-4 rounded-full shadow-md transition-all duration-200">
+                <span>Enquire Now</span>
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                </svg>
+            </a>
 
-                {{-- Main Heading --}}
-                <h1
-                    class="text-[1.75rem] font-extrabold italic leading-[1.2] tracking-tight text-brand-950 xs:text-3xl sm:text-4xl lg:text-[2.75rem] xl:text-5xl">
-                    Build Your Future with
-                    <span
-                        class="bg-gradient-to-r from-brand-600 via-brand-500 to-secondary-600 bg-clip-text text-transparent">
-                        Expert Certification
-                    </span>
-                </h1>
-
-                {{-- Subtitle --}}
-                <p class="max-w-xl text-sm font-normal leading-relaxed text-slate-600 sm:text-base">
-                    Develop practical, industry-relevant skills in construction, trades, and engineering through
-                    flexible, career-focused training designed to build your knowledge, enhance your expertise, and
-                    prepare you for real-world opportunities.
-                </p>
-
-                {{-- Action Buttons --}}
-                <div class="flex flex-col gap-3 pt-1 sm:flex-row sm:flex-wrap sm:items-center sm:gap-3 sm:pt-2">
-
-                    {{-- Primary CTA --}}
-                    <a href="{{ route('qualifications.index') }}"
-                        class="inline-flex w-full items-center justify-center gap-2 rounded-xl bg-brand-500 px-5 py-3 text-sm font-semibold text-white shadow-lg shadow-brand-500/20 transition-all duration-300 hover:scale-[1.02] hover:bg-brand-600 hover:shadow-brand-500/30 active:scale-95 sm:w-auto sm:px-6">
-                        <span>View Qualifications</span>
-                        <iconify-icon icon="lucide:arrow-right" class="text-lg"></iconify-icon>
-                    </a>
-
-                    {{-- Secondary CTA --}}
-                    <a href="#consultation"
-                        class="inline-flex w-full items-center justify-center gap-2 rounded-xl border border-brand-200 bg-white/80 px-5 py-3 text-sm font-medium text-brand-800 shadow-sm backdrop-blur-sm transition-all duration-300 hover:border-brand-400 hover:bg-brand-50 hover:text-brand-900 sm:w-auto">
-                        <iconify-icon icon="lucide:phone-call" class="text-base text-brand-600"></iconify-icon>
-                        <span>Book Consultation</span>
-                    </a>
-                </div>
-            </div>
-
-            {{-- Right Side Bento Grid --}}
-            <div class="animate-fade-in-right order-2 lg:col-span-6 lg:order-none">
-
-                <div
-                    class="relative mx-auto grid h-[280px] max-w-md grid-cols-12 grid-rows-2 gap-2.5 xs:h-[300px] sm:h-[340px] sm:max-w-lg sm:gap-3 lg:mx-0 lg:h-[360px] lg:max-w-none xl:h-[400px]">
-
-                    {{-- Decorative Gradient Glow --}}
-                    <div
-                        class="pointer-events-none absolute -inset-2 rounded-3xl bg-gradient-to-tr from-brand-500/20 via-secondary-500/15 to-transparent blur-xl">
-                    </div>
-
-                    {{-- Image 1: Main Featured Tile --}}
-                    <div
-                        class="group relative col-span-7 row-span-2 overflow-hidden rounded-xl border border-brand-200 bg-brand-100 shadow-xl shadow-brand-900/10 transition-all duration-500 hover:border-brand-400 sm:rounded-2xl sm:shadow-2xl">
-                        <img src="{{ asset('images/courses/trade-vocational.webp') }}"
-                            alt="Construction engineering project"
-                            class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105" />
-
-                        {{-- Image Overlay --}}
-                        <div class="absolute inset-0 bg-gradient-to-t from-brand-950/85 via-brand-950/5 to-transparent">
-                        </div>
-
-                        {{-- Floating Glass Pill --}}
-                        <div
-                            class="absolute bottom-2 left-2 right-2 flex items-center justify-between rounded-lg border border-white/20 bg-brand-950/85 p-2 shadow-lg backdrop-blur-md sm:bottom-3 sm:left-3 sm:right-3 sm:rounded-xl sm:p-2.5">
-                            <div class="flex items-center gap-1.5 sm:gap-2">
-                                <iconify-icon icon="lucide:check-circle-2"
-                                    class="text-base text-secondary-400 sm:text-lg"></iconify-icon>
-                                <span class="text-[11px] font-medium text-white sm:text-xs">
-                                    RPL Pathways
-                                </span>
-                            </div>
-                            <span
-                                class="text-[9px] font-bold uppercase tracking-wider text-secondary-300 sm:text-[10px]">
-                                Accredited
-                            </span>
-                        </div>
-                    </div>
-
-                    {{-- Image 2: Top Right Tile --}}
-                    <div
-                        class="group relative col-span-5 row-span-1 overflow-hidden rounded-xl border border-brand-200 bg-brand-100 shadow-lg shadow-brand-900/10 transition-all duration-500 hover:border-brand-400 sm:rounded-2xl sm:shadow-xl">
-                        <img src="{{ asset('images/courses/two.avif') }}" alt="On-site technical training"
-                            class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105" />
-                    </div>
-
-                    {{-- Image 3: Bottom Right Tile --}}
-                    <div
-                        class="group relative col-span-5 row-span-1 overflow-hidden rounded-xl border border-brand-200 bg-brand-100 shadow-lg shadow-brand-900/10 transition-all duration-500 hover:border-brand-400 sm:rounded-2xl sm:shadow-xl">
-                        <img src="{{ asset('images/courses/one.avif') }}" alt="Hands-on skills application"
-                            class="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105" />
-                    </div>
-
-                    {{-- Floating Badge Chip --}}
-                    <div
-                        class="animate-bounce-subtle absolute -right-2 -top-2 z-30 flex items-center gap-2 rounded-lg border border-brand-100 bg-white/95 px-2.5 py-1.5 shadow-lg shadow-brand-900/10 backdrop-blur-md sm:-right-3 sm:-top-3 sm:gap-2.5 sm:rounded-xl sm:px-3 sm:py-2 sm:shadow-xl">
-                        <div
-                            class="flex h-7 w-7 items-center justify-center rounded-md bg-secondary-100 text-brand-700 sm:h-8 sm:w-8 sm:rounded-lg">
-                            <iconify-icon icon="lucide:award" class="text-base sm:text-lg"></iconify-icon>
-                        </div>
-                        <div>
-                            <p class="text-[11px] font-bold text-brand-950 sm:text-xs">
-                                ISO Certified
-                            </p>
-                            <p class="text-[9px] text-slate-500 sm:text-[10px]">
-                                100% Recognized
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <!-- Secondary Button -->
+            <a href="" class="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 bg-white hover:bg-gray-50 text-gray-900 font-semibold text-sm px-7 py-4 rounded-full border border-gray-200 shadow-2xs transition-all duration-200">
+                <!-- Graduation Cap Icon -->
+                <svg class="w-5 h-5 text-brand-800/80" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5" />
+                </svg>
+                <span>Explore All Qualifications</span>
+            </a>
         </div>
+
     </div>
 </section>

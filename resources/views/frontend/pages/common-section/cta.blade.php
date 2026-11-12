@@ -59,9 +59,9 @@
 
 
                     
-                    <a href="https://lightgrey-heron-415814.hostingersite.com/contact" class="inline-flex min-h-12 items-center justify-center rounded-xl bg-secondary-300 px-6 py-3  text-xs font-extrabold uppercase tracking-wide text-brand-950 transition-all duration-300 hover:-translate-y-0.5 hover:bg-secondary-200 hover:shadow-theme-lg focus:outline-none focus:ring-4 focus:ring-secondary-300/30">
+                    <a href="" class="inline-flex min-h-12 items-center justify-center rounded-xl bg-secondary-300 px-6 py-3  text-xs font-extrabold uppercase tracking-wide text-brand-950 transition-all duration-300 hover:-translate-y-0.5 hover:bg-secondary-200 hover:shadow-theme-lg focus:outline-none focus:ring-4 focus:ring-secondary-300/30">
 
-                        Book Free Campus Tour
+                        <span>Enroll Now</span>
 
                     </a>
 

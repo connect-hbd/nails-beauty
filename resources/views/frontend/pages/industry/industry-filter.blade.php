@@ -18,14 +18,14 @@
                 });
             }
         }"
-        class="space-y-5 sm:space-y-6"
+        class="space-y-6 sm:space-y-10"
     >
 
         {{-- FILTER TABS --}}
         <div
-            class="sticky top-0 z-50 -mx-4 bg-white px-4 py-3 h-16 sm:h-auto shadow-sm sm:static sm:mx-0 sm:bg-transparent sm:px-0 sm:py-0 sm:shadow-none"
+            class=" bg-white px-4 py-3 h-16 sm:h-auto shadow-sm sm:static sm:mx-0 sm:bg-transparent sm:px-0 sm:py-0 sm:shadow-none"
         >
-            <div class="flex items-center gap-2 overflow-x-auto whitespace-nowrap scrollbar-none">
+            <div class="flex items-center justify-center gap-2 overflow-x-auto whitespace-nowrap scrollbar-none">
 
                 {{-- ALL QUALIFICATIONS --}}
                 <button
@@ -34,7 +34,7 @@
                     :class="activeFilter === 'all'
                         ? 'bg-brand-500 text-white border-brand-500 shadow-sm'
                         : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'"
-                    class="shrink-0 rounded-lg border px-3.5 py-2 text-xs font-bold tracking-wide transition-all duration-200 sm:px-4"
+                    class="shrink-0 rounded-xl border px-3.5 py-2.5 text-sm font-bold tracking-wide transition-all duration-200 sm:px-4"
                 >
                     All Qualifications
                 </button>
@@ -51,7 +51,7 @@
                         :class="activeFilter === '{{ $levelKey }}'
                             ? 'bg-brand-500 text-white border-brand-500 shadow-sm'
                             : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50'"
-                        class="shrink-0 rounded-lg border px-3.5 py-2 text-xs font-bold tracking-wide transition-all duration-200 sm:px-4"
+                        class="shrink-0 rounded-xl border px-3.5 py-2.5 text-sm font-bold tracking-wide transition-all duration-200 sm:px-4"
                     >
                         {{ $level }}
                     </button>

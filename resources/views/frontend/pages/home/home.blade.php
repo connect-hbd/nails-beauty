@@ -18,6 +18,7 @@
     @include('frontend.pages.home.section.institute-pillars')
 
     @include('frontend.pages.common-section.articles')
+    @include('frontend.pages.common-section.review')
 
     @include('frontend.pages.common-section.faq')
 

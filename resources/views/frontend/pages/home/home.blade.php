@@ -31,7 +31,7 @@
         </div>
 
         <!-- Main Headline -->
-        <h1 class="text-4xl sm:text-5xl md:text-[3.5rem] italic font-extrabold text-[#18181B] tracking-tight leading-[1.12] mb-6">
+        <h1 class="text-4xl sm:text-5xl md:text-[3.5rem] font-extrabold text-[#18181B] tracking-tight leading-[1.12] mb-6">
             Master your artistry. Launch your career in beauty &amp; nails.
         </h1>
 
@@ -633,6 +633,8 @@
 
 @include('frontend.pages.home.section.cta')
 
+
+
     {{-- @include('frontend.pages.home.section.hero')   --}}
 
     {{-- @include('frontend.pages.home.section.review')
@@ -645,5 +647,8 @@
     @include('frontend.pages.home.section.cta')
 
     @include('frontend.pages.home.section.prospect-form', ['qualifications' => $qualifications]) --}}
+
+    <!-- Requires Tailwind CSS & Alpine.js (optional for interactive validation/submission state) -->
+
 
 @endsection

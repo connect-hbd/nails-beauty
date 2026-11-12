@@ -94,7 +94,7 @@
     @include('frontend.layouts.navbar')
 
     <main class="grow">
-       <div class="pt-18 md:pt-20 pb-12">
+       <div class="pt-18 md:pt-20">
          @yield('content')
        </div>
     </main>

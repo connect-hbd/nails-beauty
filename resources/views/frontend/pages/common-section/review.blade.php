@@ -239,17 +239,17 @@
             <div
                 class="inline-flex items-center gap-2 bg-white border border-gray-200/80 rounded-full py-1.5 px-4 shadow-2xs mb-4">
                 <span class="w-2 h-2 rounded-full bg-amber-600"></span>
-                <span class="text-xs font-bold text-gray-800 tracking-wider uppercase">Reviews</span>
+                <span class="text-xs font-bold text-gray-800 tracking-wider uppercase">Graduate Testimonials</span>
             </div>
 
             <!-- Main Title -->
             <h2 class="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-[1.12] mb-4">
-                What Our Students Say
+               Real experiences that inspire careers across Australia
             </h2>
 
             <!-- Subtitle Description -->
             <p class="text-base sm:text-lg text-slate-600 leading-relaxed">
-                Read what our students have to say about their experience with our training programs.
+               Discover how MINB graduates turned their vocational training into thriving businesses and industry credentials.
             </p>
         </div>
 

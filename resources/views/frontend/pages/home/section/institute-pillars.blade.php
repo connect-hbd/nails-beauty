@@ -62,8 +62,8 @@
                     
                     <div>
                         {{-- Top Bar: Icon Box & Subtle Pillar Index --}}
-                        <div class="flex items-start justify-between mb-6">
-                            <div class="w-13 h-13 sm:w-14 sm:h-14 rounded-2xl bg-brand-100 border border-brand-200/70 group-hover:bg-brand-600 group-hover:border-brand-600 flex items-center justify-center text-brand-800 group-hover:text-accent-25 transition-colors duration-300">
+                        <div class="flex items-start justify-between mb-3">
+                            <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-2xl bg-brand-100 border border-brand-200/70 group-hover:bg-brand-600 group-hover:border-brand-600 flex items-center justify-center text-brand-800 group-hover:text-accent-25 transition-colors duration-300">
                                 <iconify-icon icon="{{ $pillar['icon'] }}" class="text-2xl"></iconify-icon>
                             </div>
 
@@ -73,12 +73,12 @@
                         </div>
 
                         {{-- Title --}}
-                        <h3 class="text-lg sm:text-xl font-extrabold text-brand-950 mb-3 leading-snug group-hover:text-brand-700 transition-colors duration-200">
+                        <h3 class="text-sm sm:text-base font-extrabold text-brand-950 mb-3 leading-snug group-hover:text-brand-700 transition-colors duration-200">
                             {{ $pillar['title'] }}
                         </h3>
 
                         {{-- Description --}}
-                        <p class="text-sm text-brand-700 leading-relaxed mb-6">
+                        <p class="text-xs sm:text-sm text-brand-700 leading-relaxed mb-6">
                             {{ $pillar['description'] }}
                         </p>
                     </div>

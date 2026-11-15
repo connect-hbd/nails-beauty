@@ -536,15 +536,12 @@
                     <div class="bg-brand-900 px-6 py-4 sm:px-7">
                         <span class="inline-flex items-center gap-2 text-[11px] font-bold uppercase tracking-[0.18em] text-secondary-200">
                             <span class="h-2 w-2 rounded-full bg-secondary-300"></span>
-                            Qualification Overview
+                           Pathway to Accredited Qualification
                         </span>
                     </div>
 
                     <div class="p-6 sm:p-7">
                         <div class="mb-5">
-                            <span class="mb-1.5 block text-[11px] font-bold uppercase tracking-[0.18em] text-brand-600">
-                                Pathway to Accredited Qualification
-                            </span>
                             <h3 class="text-2xl font-extrabold leading-tight tracking-tight text-brand-950 sm:text-[1.75rem]">
                                 Qualification <span class="font-serif italic font-semibold text-brand-600">Information</span>
                             </h3>
@@ -580,16 +577,6 @@
                                         National Code
                                     </dt>
                                     <dd class="text-right font-extrabold text-brand-950">{{ $qualification['code'] }}</dd>
-                                </div>
-                            @endif
-
-                            @if (!empty($qualification['level']))
-                                <div class="flex items-center justify-between gap-4 py-3">
-                                    <dt class="inline-flex items-center gap-2 font-semibold text-brand-700">
-                                        <iconify-icon icon="lucide:graduation-cap" class="text-sm text-brand-600"></iconify-icon>
-                                        Qualification Level
-                                    </dt>
-                                    <dd class="text-right font-extrabold text-brand-950">{{ $qualification['level'] }}</dd>
                                 </div>
                             @endif
 

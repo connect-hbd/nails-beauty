@@ -1,11 +1,12 @@
 [
-  {
-    "code": "CPC40120",
-    "industry_slug": "building-construction",
+
+    {
+    "code": "AUR30620",
+    "industry_slug": "automotive",
     "level": "Certificate IV",
     "aqf_level": "AQF Level 4",
     "name": "Certificate IV in Building and Construction",
-    "slug": "certificate-iv-in-building-and-construction-cpc40120",
+    "slug": "certificate-iv-in-building-and-construction-aur30620",
     "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=85",
     "short_description": "Develop the practical knowledge and technical skills required to work in the building and construction industry. This qualification introduces construction planning, site supervision, building codes, safety requirements and project administration.",
     "hero_description": "Develop the practical knowledge and technical skills required to work in the building and construction industry. This qualification introduces construction planning, site supervision, building codes, safety requirements and project administration.",
@@ -200,7 +201,7 @@
         }
     ],
     "industry_outcomes": {
-        "introduction": "Holding CPC40120 is the premier recognized qualification benchmark prescribed by Australian regulatory bodies (such as VBA, NSW Fair Trading, QBCC) when applying for building practitioner registration.",
+        "introduction": "Holding AUR30620 is the premier recognized qualification benchmark prescribed by Australian regulatory bodies (such as VBA, NSW Fair Trading, QBCC) when applying for building practitioner registration.",
         "statistics": [
             {
                 "value": "$125,000+",
@@ -227,5 +228,2403 @@
             "phone": "0406 844 44"
         }
     }
-}
+},
+
+    {
+        "code": "AUR40226",
+        "industry_slug": "automotive",
+        "level": "Certificate IV",
+        "aqf_level": "AQF Level 4",
+        "name": "Certificate IV in Automotive Mechanical Diagnosis",
+        "slug": "certificate-iv-in-automotive-mechanical-diagnosis-aur40226",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects the role of individuals who perform advanced diagnostic tasks in the automotive retail, service and repair industry.",
+        "hero_description": "This qualification reflects the role of individuals who perform advanced diagnostic tasks in the automotive retail, service and repair industry.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 10,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects the role of individuals who perform advanced diagnostic tasks in the automotive retail, service and repair industry.",
+        "important_information": [
+            "This is sample information for the Certificate IV in Automotive Mechanical Diagnosis page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects the role of individuals who perform advanced diagnostic tasks in the automotive retail, service and repair industry."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "Applicants must have completed an automotive mechanical Certificate III qualification, or be able to demonstrate equivalent competency.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 10,
+            "core_units": {
+                "total": 1,
+                "units": [
+                    {
+                        "code": "AURTTA121",
+                        "name": "Diagnose complex system faults"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 9,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Automotive Mechanical Diagnostician"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate IV in Automotive Mechanical Diagnosis",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "10 Units – sample course summary"
+            ],
+            "title": "Build Skills in Automotive",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Automotive Mechanical Diagnostician",
+                "description": "Sample career pathway description for a automotive mechanical diagnostician. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate IV in Automotive Mechanical Diagnosis. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "BSB40120",
+        "industry_slug": "business-leadership",
+        "level": "Certificate IV",
+        "aqf_level": "AQF Level 4",
+        "name": "Certificate IV in Business",
+        "slug": "certificate-iv-in-business-bsb40120",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects the role of individuals in a variety of Business Services job roles. They carry out specialist and moderately complex administrative or operational tasks, apply solutions to unpredictable problems, analyse information and may provide leadership and guidance to others.",
+        "hero_description": "This qualification reflects the role of individuals in a variety of Business Services job roles. They carry out specialist and moderately complex administrative or operational tasks, apply solutions to unpredictable problems, analyse information and may provide leadership and guidance to others.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 12,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects the role of individuals in a variety of Business Services job roles. They carry out specialist and moderately complex administrative or operational tasks, apply solutions to unpredictable problems, analyse information and may provide leadership and guidance to others.",
+        "important_information": [
+            "This is sample information for the Certificate IV in Business page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects the role of individuals in a variety of Business Services job roles. They carry out specialist and moderately complex administrative or operational tasks, apply solutions to unpredictable problems, analyse information and may provide leadership and guidance to others."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "Nil.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 12,
+            "core_units": {
+                "total": 6,
+                "units": []
+            },
+            "elective_units": {
+                "total": 6,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Business Services roles with supervisory responsibilities"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate IV in Business",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "12 Units – sample course summary"
+            ],
+            "title": "Build Skills in Business Leadership",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Business Services roles with supervisory responsibilities",
+                "description": "Sample career pathway description for a business services roles with supervisory responsibilities. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate IV in Business. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "BSB50420",
+        "industry_slug": "business-leadership",
+        "level": "Diploma",
+        "aqf_level": "AQF Level 5",
+        "name": "Diploma of Leadership and Management",
+        "slug": "diploma-of-leadership-and-management-bsb50420",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects the role of individuals who apply knowledge, practical skills and experience in leadership and management across a range of enterprise and industry contexts. They support individuals and teams, manage workloads and develop solutions to unpredictable problems.",
+        "hero_description": "This qualification reflects the role of individuals who apply knowledge, practical skills and experience in leadership and management across a range of enterprise and industry contexts. They support individuals and teams, manage workloads and develop solutions to unpredictable problems.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 12,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects the role of individuals who apply knowledge, practical skills and experience in leadership and management across a range of enterprise and industry contexts. They support individuals and teams, manage workloads and develop solutions to unpredictable problems.",
+        "important_information": [
+            "This is sample information for the Diploma of Leadership and Management page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects the role of individuals who apply knowledge, practical skills and experience in leadership and management across a range of enterprise and industry contexts. They support individuals and teams, manage workloads and develop solutions to unpredictable problems."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "Nil.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 12,
+            "core_units": {
+                "total": 6,
+                "units": [
+                    {
+                        "code": "BSBCMM511",
+                        "name": "Communicate with influence"
+                    },
+                    {
+                        "code": "BSBCRT511",
+                        "name": "Develop critical thinking in others"
+                    },
+                    {
+                        "code": "BSBLDR523",
+                        "name": "Lead and manage effective workplace relationships"
+                    },
+                    {
+                        "code": "BSBOPS502",
+                        "name": "Manage business operational plans"
+                    },
+                    {
+                        "code": "BSBPEF502",
+                        "name": "Develop and use emotional intelligence"
+                    },
+                    {
+                        "code": "BSBTWK502",
+                        "name": "Manage team effectiveness"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 6,
+                "units": [
+                    {
+                        "code": "BSBCMM412",
+                        "name": "Lead difficult conversations"
+                    },
+                    {
+                        "code": "BSBCRT512",
+                        "name": "Originate and develop concepts"
+                    },
+                    {
+                        "code": "BSBFIN501",
+                        "name": "Manage budgets and financial plans"
+                    },
+                    {
+                        "code": "BSBFIN502",
+                        "name": "Manage financial compliance"
+                    },
+                    {
+                        "code": "BSBHRM522",
+                        "name": "Manage employee and industrial relations"
+                    },
+                    {
+                        "code": "BSBHRM524",
+                        "name": "Coordinate workforce plan implementation"
+                    },
+                    {
+                        "code": "BSBHRM531",
+                        "name": "Coordinate health and wellness programs"
+                    },
+                    {
+                        "code": "BSBLDR521",
+                        "name": "Lead the development of diverse workforces"
+                    },
+                    {
+                        "code": "BSBLDR522",
+                        "name": "Manage people performance"
+                    },
+                    {
+                        "code": "BSBOPS501",
+                        "name": "Manage business resources"
+                    },
+                    {
+                        "code": "BSBOPS503",
+                        "name": "Develop administrative systems"
+                    }
+                ]
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Business Manager",
+            "Operations Manager",
+            "Team Leader"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Diploma of Leadership and Management",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "12 Units – sample course summary"
+            ],
+            "title": "Build Skills in Business Leadership",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Business Manager",
+                "description": "Sample career pathway description for a business manager. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            },
+            {
+                "title": "Operations Manager",
+                "description": "Sample career pathway description for a operations manager. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            },
+            {
+                "title": "Team Leader",
+                "description": "Sample career pathway description for a team leader. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Diploma of Leadership and Management. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB20121",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate II",
+        "aqf_level": "AQF Level 2",
+        "name": "Certificate II in Retail Cosmetics",
+        "slug": "certificate-ii-in-retail-cosmetics-shb20121",
+        "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects retail sales personnel who sell and demonstrate beauty or cosmetic products under direct supervision. It provides a pathway to work as a retail sales consultant in businesses selling beauty or cosmetic products and services.",
+        "hero_description": "This qualification reflects retail sales personnel who sell and demonstrate beauty or cosmetic products under direct supervision. It provides a pathway to work as a retail sales consultant in businesses selling beauty or cosmetic products and services.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 15,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects retail sales personnel who sell and demonstrate beauty or cosmetic products under direct supervision. It provides a pathway to work as a retail sales consultant in businesses selling beauty or cosmetic products and services.",
+        "important_information": [
+            "This is sample information for the Certificate II in Retail Cosmetics page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects retail sales personnel who sell and demonstrate beauty or cosmetic products under direct supervision. It provides a pathway to work as a retail sales consultant in businesses selling beauty or cosmetic products and services."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 15,
+            "core_units": {
+                "total": 9,
+                "units": [
+                    {
+                        "code": "SHBBCCS004",
+                        "name": "Demonstrate retail skin care products"
+                    },
+                    {
+                        "code": "SHBBCCS005",
+                        "name": "Advise on beauty products and services"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 6,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Retail Sales Consultant"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate II in Retail Cosmetics",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "15 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Retail Sales Consultant",
+                "description": "Sample career pathway description for a retail sales consultant. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate II in Retail Cosmetics. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB20216",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate II",
+        "aqf_level": "AQF Level 2",
+        "name": "Certificate II in Salon Assistant",
+        "slug": "certificate-ii-in-salon-assistant-shb20216",
+        "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This preparatory qualification provides basic skills and knowledge for assisting with client services in hairdressing salons under direct supervision. It prepares individuals for further training and does not provide an occupational outcome as a hairdresser.",
+        "hero_description": "This preparatory qualification provides basic skills and knowledge for assisting with client services in hairdressing salons under direct supervision. It prepares individuals for further training and does not provide an occupational outcome as a hairdresser.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 12,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This preparatory qualification provides basic skills and knowledge for assisting with client services in hairdressing salons under direct supervision. It prepares individuals for further training and does not provide an occupational outcome as a hairdresser.",
+        "important_information": [
+            "This is sample information for the Certificate II in Salon Assistant page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This preparatory qualification provides basic skills and knowledge for assisting with client services in hairdressing salons under direct supervision. It prepares individuals for further training and does not provide an occupational outcome as a hairdresser."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 12,
+            "core_units": {
+                "total": 8,
+                "units": [
+                    {
+                        "code": "BSBWHS201",
+                        "name": "Contribute to health and safety of self and others"
+                    },
+                    {
+                        "code": "SHBHBAS001",
+                        "name": "Provide shampoo and basin services"
+                    },
+                    {
+                        "code": "SHBHDES001",
+                        "name": "Dry hair to shape"
+                    },
+                    {
+                        "code": "SHBHIND001",
+                        "name": "Maintain and organise tools, equipment and work areas"
+                    },
+                    {
+                        "code": "SHBXCCS001",
+                        "name": "Conduct salon financial transactions"
+                    },
+                    {
+                        "code": "SHBXCCS003",
+                        "name": "Greet and prepare clients for salon services"
+                    },
+                    {
+                        "code": "SHBXIND001",
+                        "name": "Comply with organisational requirements within a personal services environment"
+                    },
+                    {
+                        "code": "SHBXIND002",
+                        "name": "Communicate as part of a salon team"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 4,
+                "units": [
+                    {
+                        "code": "SHBHBAS002",
+                        "name": "Provide head, neck and shoulder massages for relaxation"
+                    },
+                    {
+                        "code": "SHBHCLS001",
+                        "name": "Apply hair colour products"
+                    },
+                    {
+                        "code": "SHBHDES002",
+                        "name": "Braid hair"
+                    },
+                    {
+                        "code": "SHBHIND002",
+                        "name": "Research and use hairdressing industry information"
+                    }
+                ]
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Salon Assistant"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate II in Salon Assistant",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "12 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Salon Assistant",
+                "description": "Sample career pathway description for a salon assistant. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate II in Salon Assistant. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB30121",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate III",
+        "aqf_level": "AQF Level 3",
+        "name": "Certificate III in Beauty Services",
+        "slug": "certificate-iii-in-beauty-services-shb30121",
+        "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects beauticians providing beauty services including nail, waxing, lash and brow, and basic make-up services. They use technical and customer service skills and consult clients on beauty products and services.",
+        "hero_description": "This qualification reflects beauticians providing beauty services including nail, waxing, lash and brow, and basic make-up services. They use technical and customer service skills and consult clients on beauty products and services.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 18,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects beauticians providing beauty services including nail, waxing, lash and brow, and basic make-up services. They use technical and customer service skills and consult clients on beauty products and services.",
+        "important_information": [
+            "This is sample information for the Certificate III in Beauty Services page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects beauticians providing beauty services including nail, waxing, lash and brow, and basic make-up services. They use technical and customer service skills and consult clients on beauty products and services."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 18,
+            "core_units": {
+                "total": 14,
+                "units": [
+                    {
+                        "code": "SHBBBOS007",
+                        "name": "Apply cosmetic tanning products"
+                    },
+                    {
+                        "code": "SHBBCCS005",
+                        "name": "Advise on beauty products and services"
+                    },
+                    {
+                        "code": "SHBBFAS004",
+                        "name": "Provide lash and brow services"
+                    },
+                    {
+                        "code": "SHBBHRS010",
+                        "name": "Provide waxing services"
+                    },
+                    {
+                        "code": "SHBBMUP009",
+                        "name": "Design and apply make-up"
+                    },
+                    {
+                        "code": "SHBBNLS007",
+                        "name": "Provide manicure and pedicare services"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 4,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Beautician"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate III in Beauty Services",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "18 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Beautician",
+                "description": "Sample career pathway description for a beautician. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate III in Beauty Services. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB30221",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate III",
+        "aqf_level": "AQF Level 3",
+        "name": "Certificate III in Make-Up",
+        "slug": "certificate-iii-in-make-up-shb30221",
+        "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects make-up artists who design and apply make-up across the beauty, fashion, media and entertainment industries. They use technical and consultation skills and may work with photographers, fashion stylists and media production staff.",
+        "hero_description": "This qualification reflects make-up artists who design and apply make-up across the beauty, fashion, media and entertainment industries. They use technical and consultation skills and may work with photographers, fashion stylists and media production staff.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 15,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects make-up artists who design and apply make-up across the beauty, fashion, media and entertainment industries. They use technical and consultation skills and may work with photographers, fashion stylists and media production staff.",
+        "important_information": [
+            "This is sample information for the Certificate III in Make-Up page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects make-up artists who design and apply make-up across the beauty, fashion, media and entertainment industries. They use technical and consultation skills and may work with photographers, fashion stylists and media production staff."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 15,
+            "core_units": {
+                "total": 8,
+                "units": [
+                    {
+                        "code": "SHBBMUP009",
+                        "name": "Design and apply make-up"
+                    },
+                    {
+                        "code": "SHBBMUP010",
+                        "name": "Design and apply make-up for photography"
+                    },
+                    {
+                        "code": "SHBBMUP013",
+                        "name": "Design and apply creative make-up"
+                    },
+                    {
+                        "code": "SHBBRES003",
+                        "name": "Research and apply beauty industry information"
+                    },
+                    {
+                        "code": "SHBXCCS008",
+                        "name": "Provide salon services to clients"
+                    },
+                    {
+                        "code": "SHBXIND003",
+                        "name": "Comply with organisational requirements within a personal services environment"
+                    },
+                    {
+                        "code": "SHBXWHS003",
+                        "name": "Apply safe hygiene, health and work practices"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 7,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Make-up Artist"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate III in Make-Up",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "15 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Make-up Artist",
+                "description": "Sample career pathway description for a make-up artist. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate III in Make-Up. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB30321",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate III",
+        "aqf_level": "AQF Level 3",
+        "name": "Certificate III in Nail Technology",
+        "slug": "certificate-iii-in-nail-technology-shb30321",
+        "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects nail technicians providing manicure and pedicare services, nail art, and acrylic and gel nail enhancements. They consult clients on nail care products and services and may manage their own nail station.",
+        "hero_description": "This qualification reflects nail technicians providing manicure and pedicare services, nail art, and acrylic and gel nail enhancements. They consult clients on nail care products and services and may manage their own nail station.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 15,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects nail technicians providing manicure and pedicare services, nail art, and acrylic and gel nail enhancements. They consult clients on nail care products and services and may manage their own nail station.",
+        "important_information": [
+            "This is sample information for the Certificate III in Nail Technology page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects nail technicians providing manicure and pedicare services, nail art, and acrylic and gel nail enhancements. They consult clients on nail care products and services and may manage their own nail station."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 15,
+            "core_units": {
+                "total": 10,
+                "units": [
+                    {
+                        "code": "SHBBCCS005",
+                        "name": "Advise on beauty products and services"
+                    },
+                    {
+                        "code": "SHBBNLS007",
+                        "name": "Provide manicure and pedicare services"
+                    },
+                    {
+                        "code": "SHBBNLS009",
+                        "name": "Apply acrylic nail enhancements"
+                    },
+                    {
+                        "code": "SHBBNLS010",
+                        "name": "Apply nail art"
+                    },
+                    {
+                        "code": "SHBBNLS011",
+                        "name": "Use electric file equipment for nail services"
+                    },
+                    {
+                        "code": "SHBBRES003",
+                        "name": "Research and apply beauty industry information"
+                    },
+                    {
+                        "code": "SHBXCCS007",
+                        "name": "Conduct salon financial transactions"
+                    },
+                    {
+                        "code": "SHBXCCS008",
+                        "name": "Provide salon services to clients"
+                    },
+                    {
+                        "code": "SHBXIND003",
+                        "name": "Comply with organisational requirements within a personal services environment"
+                    },
+                    {
+                        "code": "SHBXWHS003",
+                        "name": "Apply safe hygiene, health and work practices"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 5,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Nail Technician"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate III in Nail Technology",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "15 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Nail Technician",
+                "description": "Sample career pathway description for a nail technician. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate III in Nail Technology. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB30416",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate III",
+        "aqf_level": "AQF Level 3",
+        "name": "Certificate III in Hairdressing",
+        "slug": "certificate-iii-in-hairdressing-shb30416",
+        "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects hairdressers who use well-developed sales, consultation and technical skills to provide a broad range of hairdressing services. It provides a pathway to work as a hairdresser, usually in a salon.",
+        "hero_description": "This qualification reflects hairdressers who use well-developed sales, consultation and technical skills to provide a broad range of hairdressing services. It provides a pathway to work as a hairdresser, usually in a salon.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 28,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects hairdressers who use well-developed sales, consultation and technical skills to provide a broad range of hairdressing services. It provides a pathway to work as a hairdresser, usually in a salon.",
+        "important_information": [
+            "This is sample information for the Certificate III in Hairdressing page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects hairdressers who use well-developed sales, consultation and technical skills to provide a broad range of hairdressing services. It provides a pathway to work as a hairdresser, usually in a salon."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 28,
+            "core_units": {
+                "total": 21,
+                "units": [
+                    {
+                        "code": "BSBSUS201",
+                        "name": "Participate in environmentally sustainable work practices"
+                    },
+                    {
+                        "code": "SHBHBAS001",
+                        "name": "Provide shampoo and basin services"
+                    },
+                    {
+                        "code": "SHBHCLS002",
+                        "name": "Colour and lighten hair"
+                    },
+                    {
+                        "code": "SHBHCLS003",
+                        "name": "Provide full and partial head highlighting treatments"
+                    },
+                    {
+                        "code": "SHBHCLS004",
+                        "name": "Neutralise unwanted colours and tones"
+                    },
+                    {
+                        "code": "SHBHCLS005",
+                        "name": "Provide on scalp full head and retouch bleach treatments"
+                    },
+                    {
+                        "code": "SHBHCUT001",
+                        "name": "Design haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT002",
+                        "name": "Create one length or solid haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT003",
+                        "name": "Create graduated haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT004",
+                        "name": "Create layered haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT005",
+                        "name": "Cut hair using over-comb techniques"
+                    },
+                    {
+                        "code": "SHBHDES003",
+                        "name": "Create finished hair designs"
+                    },
+                    {
+                        "code": "SHBHIND001",
+                        "name": "Maintain and organise tools, equipment and work areas"
+                    },
+                    {
+                        "code": "SHBHIND003",
+                        "name": "Develop and expand a client base"
+                    },
+                    {
+                        "code": "SHBHREF002",
+                        "name": "Straighten and relax hair with chemical treatments"
+                    },
+                    {
+                        "code": "SHBHTRI001",
+                        "name": "Identify and treat hair and scalp conditions"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 7,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Hairdresser"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate III in Hairdressing",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "28 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Hairdresser",
+                "description": "Sample career pathway description for a hairdresser. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate III in Hairdressing. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB30516",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate III",
+        "aqf_level": "AQF Level 3",
+        "name": "Certificate III in Barbering",
+        "slug": "certificate-iii-in-barbering-shb30516",
+        "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects barbers who use well-developed sales, consultation and technical skills to provide a broad range of barbering services. It provides a pathway to work as a barber, usually in a barber shop or salon.",
+        "hero_description": "This qualification reflects barbers who use well-developed sales, consultation and technical skills to provide a broad range of barbering services. It provides a pathway to work as a barber, usually in a barber shop or salon.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 26,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects barbers who use well-developed sales, consultation and technical skills to provide a broad range of barbering services. It provides a pathway to work as a barber, usually in a barber shop or salon.",
+        "important_information": [
+            "This is sample information for the Certificate III in Barbering page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects barbers who use well-developed sales, consultation and technical skills to provide a broad range of barbering services. It provides a pathway to work as a barber, usually in a barber shop or salon."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 26,
+            "core_units": {
+                "total": 21,
+                "units": [
+                    {
+                        "code": "BSBSUS201",
+                        "name": "Participate in environmentally sustainable work practices"
+                    },
+                    {
+                        "code": "SHBHBAS001",
+                        "name": "Provide shampoo and basin services"
+                    },
+                    {
+                        "code": "SHBHCUT001",
+                        "name": "Design haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT002",
+                        "name": "Create one length or solid haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT003",
+                        "name": "Create graduated haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT004",
+                        "name": "Create layered haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT005",
+                        "name": "Cut hair using over-comb techniques"
+                    },
+                    {
+                        "code": "SHBHCUT007",
+                        "name": "Create combined traditional and classic men’s haircut structures"
+                    },
+                    {
+                        "code": "SHBHCUT009",
+                        "name": "Cut hair using freehand clipper techniques"
+                    },
+                    {
+                        "code": "SHBHCUT011",
+                        "name": "Design and maintain beards and moustaches"
+                    },
+                    {
+                        "code": "SHBHCUT012",
+                        "name": "Shave heads and faces"
+                    },
+                    {
+                        "code": "SHBHCUT013",
+                        "name": "Provide men’s general grooming services"
+                    },
+                    {
+                        "code": "SHBHDES001",
+                        "name": "Dry hair to shape"
+                    },
+                    {
+                        "code": "SHBHIND001",
+                        "name": "Maintain and organise tools, equipment and work areas"
+                    },
+                    {
+                        "code": "SHBHIND003",
+                        "name": "Develop and expand a client base"
+                    },
+                    {
+                        "code": "SHBHTRI001",
+                        "name": "Identify and treat hair and scalp conditions"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 5,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Barber"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate III in Barbering",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "26 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Barber",
+                "description": "Sample career pathway description for a barber. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate III in Barbering. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB40121",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate IV",
+        "aqf_level": "AQF Level 4",
+        "name": "Certificate IV in Beauty Therapy",
+        "slug": "certificate-iv-in-beauty-therapy-shb40121",
+        "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects beauty therapists providing beauty therapy treatments including lash and brow, nail, make-up, massage and waxing services. They consult with clients and work independently in beauty salons and spas.",
+        "hero_description": "This qualification reflects beauty therapists providing beauty therapy treatments including lash and brow, nail, make-up, massage and waxing services. They consult with clients and work independently in beauty salons and spas.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 23,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects beauty therapists providing beauty therapy treatments including lash and brow, nail, make-up, massage and waxing services. They consult with clients and work independently in beauty salons and spas.",
+        "important_information": [
+            "This is sample information for the Certificate IV in Beauty Therapy page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects beauty therapists providing beauty therapy treatments including lash and brow, nail, make-up, massage and waxing services. They consult with clients and work independently in beauty salons and spas."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 23,
+            "core_units": {
+                "total": 18,
+                "units": [
+                    {
+                        "code": "SHBBBOS007",
+                        "name": "Apply cosmetic tanning products"
+                    },
+                    {
+                        "code": "SHBBBOS008",
+                        "name": "Provide body massages"
+                    },
+                    {
+                        "code": "SHBBFAS004",
+                        "name": "Provide lash and brow services"
+                    },
+                    {
+                        "code": "SHBBFAS005",
+                        "name": "Provide facial treatments and skin care recommendations"
+                    },
+                    {
+                        "code": "SHBBHRS010",
+                        "name": "Provide waxing services"
+                    },
+                    {
+                        "code": "SHBBMUP009",
+                        "name": "Design and apply make-up"
+                    },
+                    {
+                        "code": "SHBBNLS007",
+                        "name": "Provide manicure and pedicare services"
+                    },
+                    {
+                        "code": "SHBBNLS011",
+                        "name": "Use electric file equipment for nail services"
+                    },
+                    {
+                        "code": "SHBBRES003",
+                        "name": "Research and apply beauty industry information"
+                    },
+                    {
+                        "code": "SHBBSSC001",
+                        "name": "Incorporate knowledge of skin structure and functions into beauty therapy"
+                    },
+                    {
+                        "code": "SHBBSSC002",
+                        "name": "Incorporate knowledge of body structures and functions into beauty therapy"
+                    },
+                    {
+                        "code": "SHBXCCS006",
+                        "name": "Promote healthy nutritional options in a beauty therapy context"
+                    },
+                    {
+                        "code": "SHBXCCS007",
+                        "name": "Conduct salon financial transactions"
+                    },
+                    {
+                        "code": "SHBXCCS008",
+                        "name": "Provide salon services to clients"
+                    },
+                    {
+                        "code": "SHBXIND003",
+                        "name": "Comply with organisational requirements within a personal services environment"
+                    },
+                    {
+                        "code": "SHBXWHS003",
+                        "name": "Apply safe hygiene, health and work practices"
+                    },
+                    {
+                        "code": "SIRXOSM002",
+                        "name": "Maintain ethical and professional standards when using social media and online platforms"
+                    },
+                    {
+                        "code": "SIRXSLS001",
+                        "name": "Sell to the retail customer"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 5,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Beauty Therapist"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate IV in Beauty Therapy",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "23 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Beauty Therapist",
+                "description": "Sample career pathway description for a beauty therapist. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate IV in Beauty Therapy. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB40216",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Certificate IV",
+        "aqf_level": "AQF Level 4",
+        "name": "Certificate IV in Hairdressing",
+        "slug": "certificate-iv-in-hairdressing-shb40216",
+        "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects skilled senior hairdressers providing advanced hairdressing services and specialist services including haircutting, design, colouring, complex colour correction, trichology and chemical reformation. They may provide technical leadership, training and support.",
+        "hero_description": "This qualification reflects skilled senior hairdressers providing advanced hairdressing services and specialist services including haircutting, design, colouring, complex colour correction, trichology and chemical reformation. They may provide technical leadership, training and support.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 11,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects skilled senior hairdressers providing advanced hairdressing services and specialist services including haircutting, design, colouring, complex colour correction, trichology and chemical reformation. They may provide technical leadership, training and support.",
+        "important_information": [
+            "This is sample information for the Certificate IV in Hairdressing page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects skilled senior hairdressers providing advanced hairdressing services and specialist services including haircutting, design, colouring, complex colour correction, trichology and chemical reformation. They may provide technical leadership, training and support."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "Entry requires a Certificate III in Hairdressing or equivalent, and at least one year of post-qualification full-time employment experience as a hairdresser in a salon environment.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 11,
+            "core_units": {
+                "total": 2,
+                "units": [
+                    {
+                        "code": "SHBHTLS001",
+                        "name": "Provide technical leadership to hairdressing teams"
+                    },
+                    {
+                        "code": "SHBHTLS002",
+                        "name": "Research and use hairdressing trends to advance creative work"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 9,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Senior Hairdresser",
+            "Freelance Session Stylist",
+            "Technical Advisor"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Certificate IV in Hairdressing",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "11 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Senior Hairdresser",
+                "description": "Sample career pathway description for a senior hairdresser. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            },
+            {
+                "title": "Freelance Session Stylist",
+                "description": "Sample career pathway description for a freelance session stylist. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            },
+            {
+                "title": "Technical Advisor",
+                "description": "Sample career pathway description for a technical advisor. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Certificate IV in Hairdressing. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB50121",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Diploma",
+        "aqf_level": "AQF Level 5",
+        "name": "Diploma of Beauty Therapy",
+        "slug": "diploma-of-beauty-therapy-shb50121",
+        "image": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects beauty therapists providing facial treatments, body massage and treatments, hair removal, lash and brow, nail and make-up services. They consult clients, provide beauty advice and recommend treatments. Work is typically conducted in beauty salons and spas.",
+        "hero_description": "This qualification reflects beauty therapists providing facial treatments, body massage and treatments, hair removal, lash and brow, nail and make-up services. They consult clients, provide beauty advice and recommend treatments. Work is typically conducted in beauty salons and spas.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 29,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects beauty therapists providing facial treatments, body massage and treatments, hair removal, lash and brow, nail and make-up services. They consult clients, provide beauty advice and recommend treatments. Work is typically conducted in beauty salons and spas.",
+        "important_information": [
+            "This is sample information for the Diploma of Beauty Therapy page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects beauty therapists providing facial treatments, body massage and treatments, hair removal, lash and brow, nail and make-up services. They consult clients, provide beauty advice and recommend treatments. Work is typically conducted in beauty salons and spas."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 29,
+            "core_units": {
+                "total": 20,
+                "units": [
+                    {
+                        "code": "SHBBBOS008",
+                        "name": "Provide body massages"
+                    },
+                    {
+                        "code": "SHBBCCS005",
+                        "name": "Advise on beauty products and services"
+                    },
+                    {
+                        "code": "SHBBFAS004",
+                        "name": "Provide lash and brow services"
+                    },
+                    {
+                        "code": "SHBBFAS005",
+                        "name": "Provide facial treatments and skin care recommendations"
+                    },
+                    {
+                        "code": "SHBBFAS006",
+                        "name": "Provide specialised facial treatments"
+                    },
+                    {
+                        "code": "SHBBHRS010",
+                        "name": "Provide waxing services"
+                    },
+                    {
+                        "code": "SHBBMUP009",
+                        "name": "Design and apply make-up"
+                    },
+                    {
+                        "code": "SHBBNLS007",
+                        "name": "Provide manicure and pedicare services"
+                    },
+                    {
+                        "code": "SHBBNLS011",
+                        "name": "Use electric file equipment for nail services"
+                    },
+                    {
+                        "code": "SHBBRES003",
+                        "name": "Research and apply beauty industry information"
+                    },
+                    {
+                        "code": "SHBBSSC001",
+                        "name": "Incorporate knowledge of skin structure and functions into beauty therapy"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 9,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Beauty Therapist"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Diploma of Beauty Therapy",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "29 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Beauty Therapist",
+                "description": "Sample career pathway description for a beauty therapist. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Diploma of Beauty Therapy. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    },
+    {
+        "code": "SHB50216",
+        "industry_slug": "beauty-hair-personal-care",
+        "level": "Diploma",
+        "aqf_level": "AQF Level 5",
+        "name": "Diploma of Salon Management",
+        "slug": "diploma-of-salon-management-shb50216",
+        "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=85",
+        "short_description": "This qualification reflects senior managers and small business owners of personal services businesses. They coordinate daily operations, plan and evaluate team work, and make strategic business management decisions. It provides a pathway to work as a salon manager in hairdressing or beauty salons, barber shops and spas.",
+        "hero_description": "This qualification reflects senior managers and small business owners of personal services businesses. They coordinate daily operations, plan and evaluate team work, and make strategic business management decisions. It provides a pathway to work as a salon manager in hairdressing or beauty salons, barber shops and spas.",
+        "key_information": {
+            "cricos": "Demo CRICOS code – verify with provider",
+            "duration": "Demo duration – confirm with provider",
+            "total_units": 10,
+            "mode_of_study": "Demo delivery mode – confirm with provider"
+        },
+        "providers": [
+            {
+                "name": "Demo Training Provider",
+                "description": "Sample provider entry for layout preview. Replace with a verified registered training organisation."
+            }
+        ],
+        "overview": "This qualification reflects senior managers and small business owners of personal services businesses. They coordinate daily operations, plan and evaluate team work, and make strategic business management decisions. It provides a pathway to work as a salon manager in hairdressing or beauty salons, barber shops and spas.",
+        "important_information": [
+            "This is sample information for the Diploma of Salon Management page and must be checked with the training provider.",
+            "Course availability, delivery arrangements and assessment methods may vary by provider."
+        ],
+        "learning_outcomes": [
+            {
+                "title": "Qualification outcome",
+                "description": "This qualification reflects senior managers and small business owners of personal services businesses. They coordinate daily operations, plan and evaluate team work, and make strategic business management decisions. It provides a pathway to work as a salon manager in hairdressing or beauty salons, barber shops and spas."
+            }
+        ],
+        "entry_requirements": {
+            "introduction": "There are no entry requirements for this qualification.",
+            "requirements": []
+        },
+        "limitations": [
+            "This section contains placeholder information. Confirm any licensing, registration or employment limitations with the relevant Australian authority.",
+            "Completion of a qualification does not automatically guarantee employment, licensing or registration."
+        ],
+        "course_structure": {
+            "total_units": 10,
+            "core_units": {
+                "total": 7,
+                "units": [
+                    {
+                        "code": "BSBHRM404",
+                        "name": "Review human resource functions"
+                    },
+                    {
+                        "code": "BSBHRM506",
+                        "name": "Manage recruitment selection and induction processes"
+                    },
+                    {
+                        "code": "BSBSUS501",
+                        "name": "Develop workplace policy and procedures for sustainability"
+                    },
+                    {
+                        "code": "SHBXPSM001",
+                        "name": "Lead teams in a personal services environment"
+                    },
+                    {
+                        "code": "SHBXPSM002",
+                        "name": "Manage treatment services and sales delivery"
+                    },
+                    {
+                        "code": "SHBXPSM003",
+                        "name": "Promote a personal services business"
+                    },
+                    {
+                        "code": "SHBXWHS002",
+                        "name": "Provide a safe work environment"
+                    }
+                ]
+            },
+            "elective_units": {
+                "total": 3,
+                "units": []
+            }
+        },
+        "licensing_regulatory_information": {
+            "description": "No occupational licensing, certification or specific legislative requirements apply to this qualification at the time of publication."
+        },
+        "rpl_credit_transfer": {
+            "description": "Recognition of Prior Learning (RPL) and credit transfer may be available subject to the provider's assessment process and applicable requirements. This is sample wording only.",
+            "recognition_statement": "All applications must be assessed by the registered training provider against the relevant evidence and current policy."
+        },
+        "rpl_steps": [
+            {
+                "number": "01",
+                "title": "Initial Skills Review",
+                "description": "Discuss your previous study, work experience and existing skills with the provider."
+            },
+            {
+                "number": "02",
+                "title": "Evidence Submission",
+                "description": "Provide relevant documents, work samples, certificates or references for assessment."
+            },
+            {
+                "number": "03",
+                "title": "Assessment Outcome",
+                "description": "The assessor reviews the evidence and advises whether further assessment or training is required."
+            }
+        ],
+        "career_outcomes": [
+            "Salon Manager"
+        ],
+        "image_section": {
+            "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=85",
+            "alt": "Diploma of Salon Management",
+            "badges": [
+                "Nationally Recognised Training – verify current status",
+                "10 Units – sample course summary"
+            ],
+            "title": "Build Skills in Beauty Hair Personal Care",
+            "description": "Demo content for layout preview only. Replace this text with provider-verified information before publishing."
+        },
+        "fast_track_check": {
+            "title": "Study Pathway Check",
+            "description": "Choose a pathway based on your previous experience. This is a sample guide only; the provider must confirm eligibility.",
+            "recommendations": [
+                "Experienced worker → Discuss RPL eligibility with the provider",
+                "Some relevant experience → Ask about credit transfer and gap training",
+                "New learner → Consider the full training pathway"
+            ]
+        },
+        "career_pathways": [
+            {
+                "title": "Salon Manager",
+                "description": "Sample career pathway description for a salon manager. Actual duties and entry requirements depend on the employer, experience and applicable regulations."
+            }
+        ],
+        "industry_outcomes": {
+            "introduction": "This section provides a general example of possible industry opportunities related to Diploma of Salon Management. Replace with current, sourced Australian labour-market information.",
+            "statistics": [
+                {
+                    "value": "Verify data",
+                    "label": "Australian employment outlook"
+                },
+                {
+                    "value": "Verify data",
+                    "label": "Industry demand information"
+                },
+                {
+                    "value": "Varies",
+                    "label": "Potential career opportunities"
+                }
+            ]
+        },
+        "qualification_information": {
+            "recognition": "Nationally recognised Australian VET qualification",
+            "assessments": "Demo: practical tasks, knowledge questions and workplace/project evidence – confirm with provider",
+            "next_intake": "Contact provider for upcoming intake",
+            "enrolment_status": "Demo status – confirm with provider",
+            "subsidy_information": "Funding and subsidy eligibility varies by state, territory and applicant circumstances. Check current official eligibility.",
+            "support": {
+                "team": "Admissions Team – demo",
+                "phone": "0000 000 000"
+            }
+        }
+    }
 ]

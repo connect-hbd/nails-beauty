@@ -1,59 +1,79 @@
-{{-- QUALIFICATION CARD --}}
-<article data-filter-key="{{ $filterKey }}" x-show="activeFilter === 'all' || activeFilter === '{{ $filterKey }}'"
-    x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0 scale-95"
-    x-transition:enter-end="opacity-100 scale-100"
-    class="group relative flex flex-col justify-between overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#3f8919]/40 hover:shadow-xl">
+<article
+    class="group relative flex w-full flex-col justify-between overflow-hidden rounded-3xl border border-secondary-200 bg-accent-25 shadow-xs transition-all duration-300 hover:-translate-y-1 hover:border-brand-300 hover:shadow-xl hover:shadow-brand-950/5">
 
-    {{-- CARD IMAGE --}}
     <div>
-        <div class="relative h-52 overflow-hidden bg-slate-900">
-            <img src="{{ !empty($course['image']) ? asset($course['image']) : asset('images/course-placeholder.webp') }}"
-                alt="{{ $course['name'] ?? 'Course' }}" loading="lazy"
-                class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105" />
-
-            <div class="absolute inset-0 bg-gradient-to-t from-slate-950/70 via-transparent to-transparent"></div>
-
-            {{-- QUALIFICATION LEVEL --}}
-            <div
-                class="absolute left-3 top-3 flex items-center gap-1.5 rounded-lg border border-slate-700/80 bg-slate-900/90 px-2.5 py-1 backdrop-blur-md">
-                <span class="h-2 w-2 animate-pulse rounded-full bg-[#9ece1b]"></span>
-                <span class="text-[11px] font-bold uppercase tracking-wider text-white">
-                    {{ $course['level'] ?? 'Nationally Recognised' }}
-                </span>
-            </div>
-
-            {{-- COURSE CODE --}}
-            @if (!empty($course['code']))
+        {{-- Image Container with Floating Badges --}}
+        <div class="relative m-2.5 h-48 overflow-hidden rounded-2xl bg-brand-100 sm:h-52">
+            @if (filled($qualification['image']))
+                <img src="{{ \Illuminate\Support\Str::startsWith($qualification['image'], ['http://', 'https://']) ? $qualification['image'] : asset(ltrim($qualification['image'], '/')) }}"
+                    alt="{{ $qualification['name'] }}" loading="lazy"
+                    class="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105">
+            @else
                 <div
-                    class="absolute right-3 top-3 rounded-lg border border-white/40 bg-white/90 px-2.5 py-1 text-[11px] font-mono font-bold text-slate-900 shadow-sm backdrop-blur-md">
-                    {{ $course['code'] }}
+                    class="flex h-full items-center justify-center bg-gradient-to-br from-brand-100 to-secondary-200/70">
+                    <iconify-icon icon="lucide:graduation-cap" class="text-5xl text-brand-500">
+                    </iconify-icon>
                 </div>
+            @endif
+
+            {{-- Image Overlay Gradient --}}
+            <div class="absolute inset-0 bg-gradient-to-t from-brand-950/45 via-transparent to-transparent"></div>
+
+            {{-- Top-Left Qualification Code Badge --}}
+            @if (filled($qualification['code']))
+                <span
+                    class="absolute top-3 left-3 rounded-full border border-secondary-200/80 bg-accent-25/95 px-3 py-1 text-[11px] font-bold tracking-wide text-brand-950 shadow-xs backdrop-blur-md">
+                    {{ $qualification['code'] }}
+                </span>
+            @endif
+
+            {{-- Top-Right Level Badge --}}
+            @if (filled($qualification['level']))
+                <span
+                    class="absolute top-3 right-3 rounded-full border border-secondary-300/80 bg-secondary-100/95 px-3 py-1 text-[11px] font-bold text-brand-900 shadow-xs backdrop-blur-md">
+                    {{ $qualification['level'] }}
+                </span>
             @endif
         </div>
 
-        {{-- CARD CONTENT --}}
-        <div class="space-y-3 p-6">
+        {{-- Card Content --}}
+        <div class="flex flex-col px-6 pt-3 pb-4">
+            {{-- Accreditation Eyebrow --}}
+            <div class="mb-2.5 flex items-center gap-1.5">
+                <iconify-icon icon="lucide:badge-check" class="text-base text-brand-600 shrink-0"></iconify-icon>
+                <span class="text-xs font-bold tracking-wide text-brand-700">
+                    NRT &amp; AQF Accredited
+                </span>
+            </div>
+
+            {{-- Qualification Name (Stretched Card Link) --}}
             <h3
-                class="line-clamp-1 text-sm  sm:text-base font-bold tracking-tight text-slate-900 transition-colors duration-200 group-hover:text-brand-600">
-                <a href="{{ route('qualification.show', ['qualificationSlug' => $course['slug']]) }}">
-                    {{ $course['name'] ?? 'Untitled Qualification' }}
+                class="line-clamp-2 text-lg font-extrabold leading-snug text-brand-950 transition-colors duration-200 group-hover:text-brand-600">
+                <a href="{{ route('qualification.show', ['qualificationSlug' => $qualification['slug']]) }}">
+                    <span class="absolute inset-0" aria-hidden="true"></span>
+                    {{ $qualification['name'] }}
                 </a>
             </h3>
 
-            <p class="line-clamp-2 text-xs leading-relaxed text-slate-600 sm:text-sm">
-                {{ $course['hero_description'] ??
-                    ($course['short_description'] ?? 'Gain industry-standard technical competencies and certified RPL pathways.') }}
-            </p>
+            {{-- Description --}}
+            @if (filled($qualification['short_description']))
+                <p class="mt-2.5 line-clamp-3 text-xs sm:text-sm leading-relaxed text-brand-800/85">
+                    {{ $qualification['short_description'] }}
+                </p>
+            @endif
         </div>
     </div>
 
-    {{-- CARD FOOTER --}}
-
-    <div class="border-t border-secondary-200 px-6 pb-6 pt-4">
-        <a href=""
-            class="relative z-10 inline-flex w-full items-center justify-center rounded-full bg-brand-950 hover:bg-brand-800 active:bg-brand-900 py-3 px-6 text-sm font-semibold text-accent-25 shadow-xs transition-all duration-200">
-            Enquire Now
-        </a>
+    {{-- Card Footer CTA Button --}}
+    <div class="px-6 pt-2 pb-6">
+        <div class="border-t border-secondary-200/80 pt-4">
+            <a href="{{ route('qualification.show', ['qualificationSlug' => $qualification['slug']]) }}"
+                class="relative z-10 inline-flex w-full items-center justify-center gap-2 rounded-full bg-brand-600 hover:bg-brand-700 active:bg-brand-800 py-3.5 px-6 text-sm font-semibold text-accent-25 shadow-xs hover:shadow-md transition-all duration-200">
+                <span>Enquire Now</span>
+                <iconify-icon icon="lucide:arrow-right"
+                    class="text-base transition-transform duration-200 group-hover:translate-x-1"></iconify-icon>
+            </a>
+        </div>
     </div>
 
 </article>

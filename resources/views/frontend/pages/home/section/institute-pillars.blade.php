@@ -46,11 +46,11 @@
 
             {{-- Main Title --}}
             <h2 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-950 tracking-tight leading-[1.12] mb-5">
-                Your path to success through accredited excellence
+                Your path to success through <span class="font-serif italic font-semibold text-brand-600">accredited excellence</span>
             </h2>
 
             {{-- Subtitle Description --}}
-            <p class="text-sm sm:text-base lg:text-lg text-brand-800/90 leading-relaxed">
+            <p class="text-sm sm:text-base lg:text-lg text-brand-800/85 leading-relaxed">
                 We combine government compliance standards with forward-thinking vocational techniques to ensure every graduate enters the workforce highly employable.
             </p>
         </div>
@@ -62,9 +62,9 @@
                     
                     <div>
                         {{-- Top Bar: Icon Box & Subtle Pillar Index --}}
-                        <div class="flex items-start justify-between mb-3">
-                            <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-2xl bg-brand-100 border border-brand-200/70 group-hover:bg-brand-600 group-hover:border-brand-600 flex items-center justify-center text-brand-800 group-hover:text-accent-25 transition-colors duration-300">
-                                <iconify-icon icon="{{ $pillar['icon'] }}" class="text-2xl"></iconify-icon>
+                        <div class="flex items-start justify-between mb-4">
+                            <div class="w-11 h-11 sm:w-12 sm:h-12 rounded-2xl bg-brand-100/80 border border-brand-200 group-hover:bg-brand-600 group-hover:border-brand-600 flex items-center justify-center text-brand-700 group-hover:text-accent-25 transition-colors duration-300 shrink-0 shadow-2xs">
+                                <iconify-icon icon="{{ $pillar['icon'] }}" class="text-xl sm:text-2xl"></iconify-icon>
                             </div>
 
                             <span class="text-xs font-extrabold tracking-widest text-secondary-500 group-hover:text-brand-600 transition-colors duration-300">
@@ -73,18 +73,18 @@
                         </div>
 
                         {{-- Title --}}
-                        <h3 class="text-sm sm:text-base font-extrabold text-brand-950 mb-3 leading-snug group-hover:text-brand-700 transition-colors duration-200">
+                        <h3 class="text-sm sm:text-base font-extrabold text-brand-950 mb-2.5 leading-snug group-hover:text-brand-700 transition-colors duration-200">
                             {{ $pillar['title'] }}
                         </h3>
 
                         {{-- Description --}}
-                        <p class="text-xs sm:text-sm text-brand-700 leading-relaxed mb-6">
+                        <p class="text-xs sm:text-sm text-brand-800/80 leading-relaxed mb-6">
                             {{ $pillar['description'] }}
                         </p>
                     </div>
 
                     {{-- Footer Tag --}}
-                    <div class="pt-4 border-t border-secondary-200 flex items-center justify-between">
+                    <div class="pt-4 border-t border-secondary-200/80 flex items-center justify-between">
                         <span class="inline-flex items-center gap-2 text-[11px] font-bold uppercase tracking-widest text-brand-700">
                             <span class="w-1.5 h-1.5 rounded-full bg-brand-500"></span>
                             {{ $pillar['tag'] }}

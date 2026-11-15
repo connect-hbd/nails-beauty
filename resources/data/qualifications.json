@@ -1,5 +1,4 @@
 [
-
     {
     "code": "AUR30620",
     "industry_slug": "automotive",
@@ -7,7 +6,7 @@
     "aqf_level": "AQF Level 4",
     "name": "Certificate IV in Building and Construction",
     "slug": "certificate-iv-in-building-and-construction-aur30620",
-    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=85",
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=85",
     "short_description": "Develop the practical knowledge and technical skills required to work in the building and construction industry. This qualification introduces construction planning, site supervision, building codes, safety requirements and project administration.",
     "hero_description": "Develop the practical knowledge and technical skills required to work in the building and construction industry. This qualification introduces construction planning, site supervision, building codes, safety requirements and project administration.",
     "key_information": {
@@ -163,7 +162,7 @@
   
  
     "image_section": {
-        "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=85",
+        "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=85",
         "alt": "Construction professionals working at a building site",
         "badges": [
             "Practical Site Labs & Online Portals",

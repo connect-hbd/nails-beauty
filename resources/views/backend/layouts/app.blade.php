@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ $title ?? 'Dashboard' }} | Nails & Beauty Pty Ltd </title>
+    <title>{{ $title ?? 'Dashboard' }} | Melbourne Institute of Nails & Beauty Pty Ltd </title>
     <link rel="shortcut icon" href="{{asset('favicon.ico')}}">
 
     <!-- Scripts -->

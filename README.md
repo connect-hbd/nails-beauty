@@ -1,4 +1,4 @@
-# Nails & Beauty Pty Ltd
+# Melbourne Institute of Nails & Beauty Pty Ltd
 
 ### Check Your Environment
 

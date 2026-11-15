@@ -28,7 +28,7 @@
             {{-- Description --}}
             <p class="mx-auto mt-5 max-w-2xl text-sm text-neutral-500 sm:text-base">
 
-                Please review these Terms carefully before utilizing the services and operations offered by Nails & Beauty Pty Ltd
+                Please review these Terms carefully before utilizing the services and operations offered by Melbourne Institute of Nails & Beauty Pty Ltd
                 Education
                 Services.
 
@@ -194,7 +194,7 @@
                     </h3>
 
                     <p class="mt-1 text-xs leading-5 text-neutral-500">
-                        These terms govern your use of the Nails & Beauty Pty Ltd website and associated services.
+                        These terms govern your use of the Melbourne Institute of Nails & Beauty Pty Ltd website and associated services.
                     </p>
 
                 </div>
@@ -220,14 +220,14 @@
                             1. Introduction
                         </h2>
                         <p class="leading-relaxed">
-                            Welcome to Nails & Beauty Pty Ltd (“Nails & Beauty Pty Ltd”, “we”, “us”, or “our”).
+                            Welcome to Melbourne Institute of Nails & Beauty Pty Ltd (“Melbourne Institute of Nails & Beauty Pty Ltd”, “we”, “us”, or “our”).
                         </p>
                         <p class="leading-relaxed">
                             By accessing or using our website, services, or consultation programs, you agree to comply with
                             and be bound by these Terms and Conditions (“Terms”).
                         </p>
                         <p class="leading-relaxed">
-                            These Terms govern all services provided by Nails & Beauty Pty Ltd, including but not limited to
+                            These Terms govern all services provided by Melbourne Institute of Nails & Beauty Pty Ltd, including but not limited to
                             Recognition of Prior Learning consultations, qualification matching, documentation assistance,
                             and liaison with registered training organisations (RTOs).
                         </p>
@@ -240,10 +240,10 @@
                     <section id="section-2" class="scroll-mt-8 space-y-3">
                         <span class="text-xs font-bold text-blue-600 uppercase tracking-widest">Section 02</span>
                         <h2 class="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-100 pb-3">
-                            2. About Nails & Beauty Pty Ltd
+                            2. About Melbourne Institute of Nails & Beauty Pty Ltd
                         </h2>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd is an independent education consultancy that provides guidance and
+                            Melbourne Institute of Nails & Beauty Pty Ltd is an independent education consultancy that provides guidance and
                             qualification consultation.
                         </p>
                         <!-- Highlight Box -->
@@ -252,7 +252,7 @@
                             We are not an RTO (Registered Training Organisation) and do not issue qualifications directly.
                         </div>
                         <p class="leading-relaxed font-semibold text-slate-900 pt-2">
-                            Nails & Beauty Pty Ltd assists individuals by:
+                            Melbourne Institute of Nails & Beauty Pty Ltd assists individuals by:
                         </p>
                         <ul class="space-y-2 list-none pl-0">
                             <li class="flex items-start gap-3">
@@ -287,7 +287,7 @@
                             3. Services
                         </h2>
                         <p class="leading-relaxed font-semibold text-slate-900">
-                            Nails & Beauty Pty Ltd provides the following services:
+                            Melbourne Institute of Nails & Beauty Pty Ltd provides the following services:
                         </p>
                         <div class="grid grid-cols-1 gap-3 pt-2">
                             <div class="p-4 rounded-xl bg-slate-50 border border-slate-200/70">
@@ -302,7 +302,7 @@
                             <div class="p-4 rounded-xl bg-slate-50 border border-slate-200/70">
                                 <span class="font-bold text-slate-900">Documentation Support</span>
                                 <span class="text-slate-600"> – helping clients prepare and organise evidence required for
-                                    Nails & Beauty Pty Ltd assessment.</span>
+                                    Melbourne Institute of Nails & Beauty Pty Ltd assessment.</span>
                             </div>
                             <div class="p-4 rounded-xl bg-slate-50 border border-slate-200/70">
                                 <span class="font-bold text-slate-900">RTO Liaison</span>
@@ -311,7 +311,7 @@
                             </div>
                             <div class="p-4 rounded-xl bg-slate-50 border border-slate-200/70">
                                 <span class="font-bold text-slate-900">Ongoing Support</span>
-                                <span class="text-slate-600"> – guidance through each step of the Nails & Beauty Pty Ltd
+                                <span class="text-slate-600"> – guidance through each step of the Melbourne Institute of Nails & Beauty Pty Ltd
                                     journey until completion.</span>
                             </div>
                         </div>
@@ -330,18 +330,18 @@
                             </li>
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
-                                <span>Consultation fees (if applicable) are payable prior to initiating the Nails & Beauty Pty Ltd
+                                <span>Consultation fees (if applicable) are payable prior to initiating the Melbourne Institute of Nails & Beauty Pty Ltd
                                     Education application process.</span>
                             </li>
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
-                                <span>Nails & Beauty Pty Ltd may collect fees for consultation, administrative assistance, or
+                                <span>Melbourne Institute of Nails & Beauty Pty Ltd may collect fees for consultation, administrative assistance, or
                                     document processing.</span>
                             </li>
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
                                 <span>Qualification and assessment fees are payable directly to the RTO, unless otherwise
-                                    arranged through Nails & Beauty Pty Ltd.</span>
+                                    arranged through Melbourne Institute of Nails & Beauty Pty Ltd.</span>
                             </li>
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
@@ -358,7 +358,7 @@
                             5. Refund Policy
                         </h2>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd operates under a fair and transparent refund policy. Refunds are available
+                            Melbourne Institute of Nails & Beauty Pty Ltd operates under a fair and transparent refund policy. Refunds are available
                             under the following conditions:
                         </p>
                         <ul class="space-y-3 list-none pl-0 my-3">
@@ -412,11 +412,11 @@
                             </li>
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
-                                <span>Cooperate with Nails & Beauty Pty Ltd and the RTO during the assessment process.</span>
+                                <span>Cooperate with Melbourne Institute of Nails & Beauty Pty Ltd and the RTO during the assessment process.</span>
                             </li>
                         </ul>
                         <p class="leading-relaxed pt-2 text-slate-600 italic">
-                            Nails & Beauty Pty Ltd will not be held responsible for delays or outcomes resulting from
+                            Melbourne Institute of Nails & Beauty Pty Ltd will not be held responsible for delays or outcomes resulting from
                             incomplete or inaccurate client information.
                         </p>
                     </section>
@@ -428,7 +428,7 @@
                             7. Partnership with RTOs
                         </h2>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd collaborates with multiple Australian Registered Training Organisations
+                            Melbourne Institute of Nails & Beauty Pty Ltd collaborates with multiple Australian Registered Training Organisations
                             (RTOs) to ensure clients are connected with the most suitable providers.
                         </p>
                         <p class="leading-relaxed">
@@ -436,7 +436,7 @@
                             Authority) under the Australian Qualifications Framework (AQF).
                         </p>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd does not influence or guarantee the outcome of the RTO’s final assessment.
+                            Melbourne Institute of Nails & Beauty Pty Ltd does not influence or guarantee the outcome of the RTO’s final assessment.
                         </p>
                     </section>
 
@@ -447,7 +447,7 @@
                             8. Disclaimer
                         </h2>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd does not issue qualifications and cannot guarantee the outcome of Open
+                            Melbourne Institute of Nails & Beauty Pty Ltd does not issue qualifications and cannot guarantee the outcome of Open
                             School Education assessments.
                         </p>
                         <p class="leading-relaxed">
@@ -458,7 +458,7 @@
                             or professional advice.
                         </p>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd is not liable for any loss or damage arising from reliance on information
+                            Melbourne Institute of Nails & Beauty Pty Ltd is not liable for any loss or damage arising from reliance on information
                             or services provided.
                         </p>
                     </section>
@@ -475,7 +475,7 @@
                         <ul class="space-y-3 list-none pl-0">
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
-                                <span>Nails & Beauty Pty Ltd shall not be liable for any indirect, incidental, or
+                                <span>Melbourne Institute of Nails & Beauty Pty Ltd shall not be liable for any indirect, incidental, or
                                     consequential losses.</span>
                             </li>
                             <li class="flex items-start gap-3">
@@ -485,7 +485,7 @@
                             </li>
                             <li class="flex items-start gap-3">
                                 <span class="mt-1.5 w-1.5 h-1.5 rounded-full bg-blue-600 shrink-0"></span>
-                                <span>Clients agree to indemnify Nails & Beauty Pty Ltd against any loss or claim arising
+                                <span>Clients agree to indemnify Melbourne Institute of Nails & Beauty Pty Ltd against any loss or claim arising
                                     from their use of services or provision of false information.</span>
                             </li>
                         </ul>
@@ -498,7 +498,7 @@
                             10. Privacy and Data Protection
                         </h2>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd respects your privacy.
+                            Melbourne Institute of Nails & Beauty Pty Ltd respects your privacy.
                         </p>
                         <p class="leading-relaxed">
                             All personal and professional information collected is handled in accordance with the Privacy
@@ -520,8 +520,8 @@
                             11. Intellectual Property
                         </h2>
                         <p class="leading-relaxed">
-                            All content, materials, and designs on the Nails & Beauty Pty Ltd website — including text,
-                            graphics, videos, and logos — are the intellectual property of Nails & Beauty Pty Ltd.
+                            All content, materials, and designs on the Melbourne Institute of Nails & Beauty Pty Ltd website — including text,
+                            graphics, videos, and logos — are the intellectual property of Melbourne Institute of Nails & Beauty Pty Ltd.
                         </p>
                         <p class="leading-relaxed">
                             You may not reproduce, distribute, or reuse any content without prior written consent.
@@ -535,7 +535,7 @@
                             12. Amendments to Terms
                         </h2>
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd reserves the right to modify or update these Terms at any time without
+                            Melbourne Institute of Nails & Beauty Pty Ltd reserves the right to modify or update these Terms at any time without
                             prior notice.
                         </p>
                         <p class="leading-relaxed">
@@ -567,7 +567,7 @@
                             For any questions regarding these Terms, please contact:
                         </p>
                         <div class="p-6 rounded-2xl bg-slate-900 text-white space-y-3">
-                            <h3 class="text-lg font-bold">Nails & Beauty Pty Ltd</h3>
+                            <h3 class="text-lg font-bold">Melbourne Institute of Nails & Beauty Pty Ltd</h3>
                             <div class="space-y-1 text-sm text-slate-300">
                                 <p>
                                     <span class="font-medium text-slate-400">Email:</span>

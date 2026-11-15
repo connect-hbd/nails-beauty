@@ -29,7 +29,7 @@
                 <!-- Logo -->
                 <div class=" p-1.5">
                     <a href="/" class="flex items-center gap-2 font-semibold">
-                        Nails & Beauty Pty Ltd
+                        Melbourne Institute of Nails & Beauty Pty Ltd
                     </a>
                 </div>
 

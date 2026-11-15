@@ -19,7 +19,7 @@
                     <span class="flex h-10 w-10 items-center justify-center rounded-xl bg-brand-600 text-accent-25 shadow-xs">
                         <iconify-icon icon="lucide:sparkles" class="text-xl"></iconify-icon>
                     </span>
-                    <span>Nails &amp; Beauty Institute</span>
+                    <span>Melbourne Institute of Melbourne Institute of Nails & Beauty Pty Ltd</span>
                 </a>
 
                 <p class="text-sm leading-relaxed text-brand-800/85 max-w-sm">

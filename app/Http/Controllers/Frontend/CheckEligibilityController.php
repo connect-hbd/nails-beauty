@@ -208,7 +208,7 @@ public function index()
                 $message
                     ->to('mannan.hbdservices@gmail.com')
                     ->subject(
-                        'New Eligibility Application - Nails & Beauty Pty Ltd'
+                        'New Eligibility Application - Melbourne Institute of Nails & Beauty Pty Ltd'
                     );
             }
         );

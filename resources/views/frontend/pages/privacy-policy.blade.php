@@ -30,7 +30,7 @@
 
             {{-- Description --}}
             <p class="mx-auto mt-5 max-w-2xl text-sm text-neutral-500 sm:text-base">
-                Please review this Privacy Policy to understand how Nails & Beauty Pty Ltd collects,
+                Please review this Privacy Policy to understand how Melbourne Institute of Nails & Beauty Pty Ltd collects,
                 uses, stores, and protects your personal information.
             </p>
 
@@ -241,8 +241,8 @@
 
                         <p class="leading-relaxed">
                             This Privacy Policy outlines how
-                            <strong>Nails & Beauty Pty Ltd</strong>
-                            (“Nails & Beauty Pty Ltd”, “we”, “us”, or “our”) collects, holds,
+                            <strong>Melbourne Institute of Nails & Beauty Pty Ltd</strong>
+                            (“Melbourne Institute of Nails & Beauty Pty Ltd”, “we”, “us”, or “our”) collects, holds,
                             uses, and discloses your personal information in accordance with the
                             <strong>Privacy Act 1988 (Cth)</strong>
                             and the
@@ -657,7 +657,7 @@
                         </h2>
 
                         <p class="leading-relaxed">
-                            Nails & Beauty Pty Ltd takes reasonable precautions to protect your
+                            Melbourne Institute of Nails & Beauty Pty Ltd takes reasonable precautions to protect your
                             personal information from misuse, interference, unauthorised access,
                             modification, or disclosure.
                         </p>
@@ -848,7 +848,7 @@
                         >
 
                             <h3 class="text-lg font-bold">
-                                Nails & Beauty Pty Ltd
+                                Melbourne Institute of Nails & Beauty Pty Ltd
                             </h3>
 
                             <div class="space-y-1 text-sm text-slate-300">

@@ -3,6 +3,7 @@
     "code": "CPC40120",
     "industry_slug": "building-construction",
     "level": "Certificate IV",
+    "aqf_level": "AQF Level 4",
     "name": "Certificate IV in Building and Construction",
     "slug": "certificate-iv-in-building-and-construction-cpc40120",
     "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=85",
@@ -20,10 +21,59 @@
         "Training combines classroom learning, practical activities and online learning resources.",
         "Students develop skills through realistic construction scenarios and supervised practical tasks."
     ],
-    "limitations": [
+        "learning_outcomes": [
+        {
+            "title": "Structural Principles",
+            "description": "Apply NCC structural principles, footing design, and framing tolerances to residential and low-rise buildings."
+        },
+        {
+            "title": "Plans & Specifications",
+            "description": "Read, interpret, and cross-reference architectural working drawings, engineering notes, and NCC codes."
+        },
+        {
+            "title": "Site Operations & Subcontractors",
+            "description": "Plan, schedule, and supervise trade contractors, deliveries, and critical path milestones."
+        },
+        {
+            "title": "WHS & Risk Systems",
+            "description": "Implement active site safety systems, hazardous material handling, and Safe Work Method Statements (SWMS)."
+        },
+        {
+            "title": "Estimating & Contracts",
+            "description": "Prepare competitive project tenders, material schedules, client building contracts, and variation agreements."
+        },
+        {
+            "title": "Compliance & Quality Audit",
+            "description": "Execute staged structural inspections, defect rectification records, and handover sign-offs."
+        }
+    ],
+
+       "entry_requirements": {
+        "introduction": "Our admission officers review each applicant holistically, balancing formal trade background with real site-based experience.",
+        "requirements": [
+            {
+                "label": "Age requirement",
+                "value": "Applicants should be at least 18 years of age."
+            },
+            {
+                "label": "English language",
+                "value": "Applicants should have sufficient English language skills to participate in training and assessment."
+            },
+            {
+                "label": "Academic requirement",
+                "value": "Completion of Year 10 or an equivalent level of education is recommended.",
+                "link": {
+                    "url": "https://www.nubexcollege.edu.au/",
+                    "text": "Contact admissions for guidance"
+                }
+            }
+        ]
+    },
+        "limitations": [
         "Licensing requirements vary by state and territory. Completing this qualification does not automatically guarantee a building licence.",
         "Students should confirm current licensing requirements with the relevant state or territory authority."
     ],
+ 
     "course_structure": {
         "total_units": 19,
         "core_units": {
@@ -73,61 +123,34 @@
             ]
         }
     },
-    "learning_outcomes": [
-        {
-            "title": "Structural Principles",
-            "description": "Apply NCC structural principles, footing design, and framing tolerances to residential and low-rise buildings."
-        },
-        {
-            "title": "Plans & Specifications",
-            "description": "Read, interpret, and cross-reference architectural working drawings, engineering notes, and NCC codes."
-        },
-        {
-            "title": "Site Operations & Subcontractors",
-            "description": "Plan, schedule, and supervise trade contractors, deliveries, and critical path milestones."
-        },
-        {
-            "title": "WHS & Risk Systems",
-            "description": "Implement active site safety systems, hazardous material handling, and Safe Work Method Statements (SWMS)."
-        },
-        {
-            "title": "Estimating & Contracts",
-            "description": "Prepare competitive project tenders, material schedules, client building contracts, and variation agreements."
-        },
-        {
-            "title": "Compliance & Quality Audit",
-            "description": "Execute staged structural inspections, defect rectification records, and handover sign-offs."
-        }
-    ],
-    "entry_requirements": {
-        "introduction": "Our admission officers review each applicant holistically, balancing formal trade background with real site-based experience.",
-        "requirements": [
-            {
-                "label": "Age requirement",
-                "value": "Applicants should be at least 18 years of age."
-            },
-            {
-                "label": "English language",
-                "value": "Applicants should have sufficient English language skills to participate in training and assessment."
-            },
-            {
-                "label": "Academic requirement",
-                "value": "Completion of Year 10 or an equivalent level of education is recommended.",
-                "link": {
-                    "url": "https://www.nubexcollege.edu.au/",
-                    "text": "Contact admissions for guidance"
-                }
-            }
-        ]
-    },
+   
+ 
     "licensing_regulatory_information": {
         "description": "This qualification may support pathways towards relevant building and construction roles. Licensing and registration requirements depend on the work performed and the state or territory in which you intend to work. Always check the current requirements with the relevant authority."
     },
-    "work_placement": {
-        "title": "Practical Training",
-        "hours": 120,
-        "description": "Students participate in practical learning activities and simulated construction-site tasks designed to build confidence in applying workplace procedures, safety practices and construction knowledge."
+
+      "rpl_credit_transfer": {
+        "description": "Recognition of Prior Learning (RPL) may be available for applicants who can demonstrate relevant existing skills, knowledge and work experience. Credit transfer may also be considered for equivalent completed units.",
+        "recognition_statement": "All RPL and credit transfer applications are assessed in accordance with the college policies and applicable training requirements."
     },
+
+      "rpl_steps": [
+        {
+            "number": "01",
+            "title": "Free Skills Audit",
+            "description": "Complete our 2-minute pre-assessment to verify if your existing experience aligns with the required units."
+        },
+        {
+            "number": "02",
+            "title": "Evidence Review",
+            "description": "Upload site photos, trade licenses, payslips, supervisor third-party references, and plans managed."
+        },
+        {
+            "number": "03",
+            "title": "Certification",
+            "description": "Participate in a practical competency conversation with our licensed assessor and receive your parchment."
+        }
+    ],
     "career_outcomes": [
         "Building Supervisor",
         "Construction Site Coordinator",
@@ -136,21 +159,8 @@
         "Construction Estimator Assistant",
         "Site Administration Officer"
     ],
-    "education_pathways": [
-        "Continue to an advanced diploma-level qualification in building and construction.",
-        "Pursue further study in construction management or a related discipline."
-    ],
-    "exit_point_award": {
-        "completion_requirement": "Students who successfully complete all required units may be awarded the CPC40120 Certificate IV in Building and Construction.",
-        "partial_completion": "Students who complete individual units may be eligible for a Statement of Attainment."
-    },
-    "rpl_credit_transfer": {
-        "description": "Recognition of Prior Learning (RPL) may be available for applicants who can demonstrate relevant existing skills, knowledge and work experience. Credit transfer may also be considered for equivalent completed units.",
-        "recognition_statement": "All RPL and credit transfer applications are assessed in accordance with the college policies and applicable training requirements."
-    },
-    "additional_information": {
-        "student_handbook_url": "https://www.nubexcollege.edu.au/"
-    },
+  
+ 
     "image_section": {
         "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=85",
         "alt": "Construction professionals working at a building site",
@@ -170,23 +180,7 @@
             "Career Changer / New Entrant → Structured"
         ]
     },
-    "rpl_steps": [
-        {
-            "number": "01",
-            "title": "Free Skills Audit",
-            "description": "Complete our 2-minute pre-assessment to verify if your existing experience aligns with the required units."
-        },
-        {
-            "number": "02",
-            "title": "Evidence Review",
-            "description": "Upload site photos, trade licenses, payslips, supervisor third-party references, and plans managed."
-        },
-        {
-            "number": "03",
-            "title": "Certification",
-            "description": "Participate in a practical competency conversation with our licensed assessor and receive your parchment."
-        }
-    ],
+  
     "career_pathways": [
         {
             "title": "Domestic Builder (DB-U)",

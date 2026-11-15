@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Nails & Beauty Pty Ltd'),
+    'name' => env('APP_NAME', 'Melbourne Institute of Nails & Beauty Pty Ltd'),
 
     /*
     |--------------------------------------------------------------------------
